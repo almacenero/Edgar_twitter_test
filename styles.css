@@ -1,0 +1,13 @@
+.borde {
+    border-style: solid
+}
+
+.borde_row {
+    border-style: solid;
+    border-color: green;
+}
+
+.borde_col {
+    border-style: solid;
+    border-color: red;
+}
